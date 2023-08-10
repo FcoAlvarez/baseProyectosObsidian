@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "indice.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -149,8 +149,8 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false
@@ -160,18 +160,33 @@
   "lastOpenFiles": [
     "Templates/entradaBitacora.md",
     "indice.md",
+    "Bitacora/2023-08-10.md",
+    "Bitacora/project-management.png",
+    "images/research_book.png",
+    "images/research_book.png.crdownload",
+    "images/research.png",
+    "images/research.png.crdownload",
+    "documentacion/documentacion.png",
+    "images/datapresentation.png",
+    "images/job-description.png",
+    "images/lista.png",
+    "images/project.png",
+    "images/job-description.png.crdownload",
+    "Pasted image 20230810090318.png",
+    "images/lista.png.crdownload",
+    "Bitacora",
+    "New folder",
+    "images/project-management.png",
+    "images/project-management.png.crdownload",
+    "documentacion/documentacion.png.crdownload",
+    "images/project.png.crdownload",
+    "documentacion",
     "Bitacora/2023-08-02.md",
     "Bitacora/2023-09-11.md",
     "2023-09-11.md",
     "Bitacora/2023-08-09.md",
     "Images/Untitled.canvas",
     "Bitacora/09/Aug/2023.md",
-    "Bitacora/09/Aug",
-    "Bitacora/09",
-    "Bitacora",
-    "2023-08-09.md",
-    "Support Files",
-    "Images",
-    "Templates"
+    "2023-08-09.md"
   ]
 }

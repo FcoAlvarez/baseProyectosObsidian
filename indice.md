@@ -1,9 +1,11 @@
-# Proyecto XXXXXX
-
-### Descripción:
+# ![[project.png|30]] Proyecto XXXXX
 
 ---
-### Por hacer:
+
+### ![[job-description.png|30]] Descripción:
+
+---
+###  ![[lista.png|30]] Por hacer:
 ```dataviewjs
 
 ```
@@ -14,10 +16,10 @@ dv.taskList(dv.pages().file.tasks
 
 ---
 
-### Documentación:
+ ### ![[documentacion.png|30]] Documentación:
 
 ---
-### Actividad:
+###  ![[project-management.png|25]] Actividad:
 
 ```dataviewjs
 dv.span("Actividad en Bitácora") /* optional ⏹️💤⚡⚠🧩↑↓⏳📔💾📁📝🔄📝🔀⌨️🕸️📅🔍✨ */
@@ -53,6 +55,6 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 ---
-### Referencias:
+### ![[research_book.png|30]] Referencias:
 
 https://github.com/Richardsl/heatmap-calendar-obsidian
