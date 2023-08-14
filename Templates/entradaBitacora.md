@@ -1,7 +1,10 @@
-## ![[project-management.png|30]] Bitácora: {{Date:DD-MMM-YYYY}}
-Tags:
+---
+tags:
 
 ---
+
+## ![[project-management.png|30]] Bitácora: {{Date:DD-MMM-YYYY}}
+
 
 ### ![[lista.png|30]] Por hacer:
 

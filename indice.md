@@ -16,7 +16,7 @@ dv.taskList(dv.pages().file.tasks
 
 ---
 
- ### ![[documentacion.png|30]] Documentación:
+### ![[documentacion.png|30]] Documentación:
 
 ---
 ###  ![[project-management.png|25]] Actividad:
@@ -52,6 +52,12 @@ for (let page of dv.pages('"Bitacora"')) {
 }
 
 renderHeatmapCalendar(this.container, calendarData)
+```
+---
+```dataview
+TABLE file.mtime AS Modificado, tags 
+FROM "documentacion"
+LIMIT 5
 ```
 
 ---

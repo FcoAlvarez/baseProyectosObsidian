@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indice.md",
-                "mode": "preview",
+                "file": "Templates/entradaBitacora.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indice.md",
+                "file": "Templates/entradaBitacora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indice.md",
+                "file": "Templates/entradaBitacora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indice.md"
+                "file": "Templates/entradaBitacora.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "eb569eea78967f17",
   "lastOpenFiles": [
-    "Templates/entradaBitacora.md",
     "indice.md",
+    "Templates/entradaBitacora.md",
     "Bitacora/2023-08-10.md",
     "Bitacora/project-management.png",
     "images/research_book.png",
