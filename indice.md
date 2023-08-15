@@ -2,21 +2,22 @@
 
 ---
 
-### ![[job-description.png|30]] Descripción:
+## ![[job-description.png|30]] Descripción:
+
 
 ---
-###  ![[lista.png|30]] Por hacer:
-```dataviewjs
+##  ![[lista.png|30]] Por hacer:
 
-```
 ```dataviewjs
-dv.taskList(dv.pages().file.tasks 
+dv.taskList(dv.pages('"Bitacora"').file.tasks 
   .where(t => !t.completed))
 ```
 
 ---
 
-### ![[documentacion.png|30]] Documentación:
+## ![[documentacion.png|30]] Documentación:
+
+
 
 ---
 ###  ![[project-management.png|25]] Actividad:
@@ -53,14 +54,16 @@ for (let page of dv.pages('"Bitacora"')) {
 
 renderHeatmapCalendar(this.container, calendarData)
 ```
+
 ---
+### ![[experimentos/experimento.png|30]] Experimentos
+
 ```dataview
 TABLE file.mtime AS Modificado, tags 
-FROM "documentacion"
-LIMIT 5
+FROM "experimentos"
 ```
 
 ---
 ### ![[research_book.png|30]] Referencias:
 
-https://github.com/Richardsl/heatmap-calendar-obsidian
+

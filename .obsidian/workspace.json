@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/entradaBitacora.md",
+                "file": "indice.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/entradaBitacora.md",
+                "file": "indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/entradaBitacora.md",
+                "file": "indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/entradaBitacora.md"
+                "file": "indice.md"
               }
             }
           },
@@ -158,19 +158,20 @@
   },
   "active": "eb569eea78967f17",
   "lastOpenFiles": [
+    "images/research_book.png",
+    "images/research.png",
+    "images/project.png",
+    "Templates/entradaExperimento.md",
     "indice.md",
     "Templates/entradaBitacora.md",
     "Bitacora/2023-08-10.md",
     "Bitacora/project-management.png",
-    "images/research_book.png",
     "images/research_book.png.crdownload",
-    "images/research.png",
     "images/research.png.crdownload",
     "documentacion/documentacion.png",
     "images/datapresentation.png",
     "images/job-description.png",
     "images/lista.png",
-    "images/project.png",
     "images/job-description.png.crdownload",
     "Pasted image 20230810090318.png",
     "images/lista.png.crdownload",
