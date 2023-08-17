@@ -1,5 +1,8 @@
 [
   "heatmap-calendar",
   "calendar",
-  "dataview"
+  "dataview",
+  "obsidian-kanban",
+  "obsidian-tasks-plugin",
+  "table-editor-obsidian"
 ]

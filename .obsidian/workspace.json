@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indice.md",
-                "mode": "source",
+                "file": "_Dashboard.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indice.md",
+                "file": "_Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indice.md",
+                "file": "_Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indice.md"
+                "file": "_Dashboard.md"
               }
             }
           },
@@ -153,17 +153,20 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "eb569eea78967f17",
   "lastOpenFiles": [
+    "Templates/entradaExperimento.md",
+    "_Dashboard.md",
+    "Kanban.md",
+    "Bitacora/2023-08-17.md",
+    "Templates/entradaBitacora.md",
     "images/research_book.png",
     "images/research.png",
     "images/project.png",
-    "Templates/entradaExperimento.md",
-    "indice.md",
-    "Templates/entradaBitacora.md",
     "Bitacora/2023-08-10.md",
     "Bitacora/project-management.png",
     "images/research_book.png.crdownload",

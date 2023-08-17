@@ -6,9 +6,9 @@ tags: experimento
 ---
 ## Experimento: {{Date:DD-MMM-YYYY}}
 
-## Propósito:
+## Descripción:
 
-### ![[experimentos/objetivo.png|30]] Por hacer:
+### Por hacer:
 
 ---
 ### ![[experimentos/experimento.png|30]] Procedimiento:

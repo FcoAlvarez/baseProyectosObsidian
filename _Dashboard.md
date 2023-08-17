@@ -1,4 +1,5 @@
 # ![[project.png|30]] Proyecto XXXXX
+### por Carlos Francisco Alvarez Salgado
 
 ---
 
@@ -6,12 +7,15 @@
 
 
 ---
-##  ![[lista.png|30]] Por hacer:
-
-```dataviewjs
-dv.taskList(dv.pages('"Bitacora"').file.tasks 
-  .where(t => !t.completed))
+##  ![[lista.png|30]] Pendientes:
+```tasks
+not done
+sort by created
+sort by priority
+group by filename
+group by heading
 ```
+
 
 ---
 
@@ -56,7 +60,7 @@ renderHeatmapCalendar(this.container, calendarData)
 ```
 
 ---
-### ![[experimentos/experimento.png|30]] Experimentos
+### ![[experimentos/experimento.png|30]] Experimentos y pruebas
 
 ```dataview
 TABLE file.mtime AS Modificado, tags 
