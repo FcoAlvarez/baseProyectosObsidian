@@ -2,9 +2,18 @@
 ### por Carlos Francisco Alvarez Salgado
 
 ---
-
 ## ![[job-description.png|30]] Descripción:
 
+### Planteamiento del problema:
+
+### Justificación
+
+### Hipótesis
+### Objetivo General:
+
+### Objetivos secundarios
+
+### Propuesta de valor del proyecto
 
 ---
 ##  ![[lista.png|30]] Pendientes:
@@ -18,10 +27,11 @@ group by heading
 
 
 ---
+## ![[documentacion.png|30]] Documentación (Marco Teórico):
 
-## ![[documentacion.png|30]] Documentación:
+### [[Estudio de factibilidad técnica y financiera (Costos)]] para su producción e implementación
 
-
+### [[Impacto]] social, ecológico, tecnológico y/o desarrollo sustentable
 
 ---
 ###  ![[project-management.png|25]] Actividad:
