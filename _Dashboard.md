@@ -69,6 +69,12 @@ for (let page of dv.pages('"Bitacora"')) {
 renderHeatmapCalendar(this.container, calendarData)
 ```
 
+```dataview
+TABLE file.ctime AS Modificado, tags
+FROM "Bitacora"
+SORT file.name desc
+```
+
 ---
 ### ![[experimentos/experimento.png|30]] Experimentos y pruebas
 
