@@ -4,16 +4,46 @@
 ---
 ## ![[job-description.png|30]] Descripción:
 
-### Planteamiento del problema:
+### [[Introducción]]
+### [[Planteamiento del problema]]
 
-### Justificación
+### [[Justificación]]
 
-### Hipótesis
-### Objetivo General:
+### [[Hipótesis]]
 
-### Objetivos secundarios
+## Objetivos de la investigación
+- ### [[Objetivo General]]
+- ### [[Objetivos secundarios]]
 
-### Propuesta de valor del proyecto
+### [[Tipo de investigación]]
+
+### [[Marco Teórico]]
+
+### [[Descripción de planeación y desarrollo del proyecto]]
+
+### [[Propuesta de valor del proyecto]]
+
+### [[Estudio de viabilidad para la implementación del prototipo]]
+
+### [[Estudio de factibilidad técnica y financiera (Costos)]] para su producción e implementación
+
+### [[Impacto]] social, ecológico, tecnológico y/o desarrollo sustentable
+
+### [[Estrategia para la protección de la propiedad intelectual del prototipo]]
+
+### [[Análisis de resultado]]
+
+### [[Conclusiones]]
+
+### [[Bibliografía]]
+
+### [[Manual de Operación]]
+
+### [[Manual de Instalación]]
+
+### [[Cartel]]
+
+### [[Presentación de proyecto]]
 
 ---
 ##  ![[lista.png|30]] Pendientes:
@@ -25,13 +55,6 @@ group by filename
 group by heading
 ```
 
-
----
-## ![[documentacion.png|30]] Documentación (Marco Teórico):
-
-### [[Estudio de factibilidad técnica y financiera (Costos)]] para su producción e implementación
-
-### [[Impacto]] social, ecológico, tecnológico y/o desarrollo sustentable
 
 ---
 ###  ![[project-management.png|25]] Actividad:
@@ -82,6 +105,11 @@ SORT file.name desc
 TABLE file.mtime AS Modificado, tags 
 FROM "experimentos"
 ```
+
+---
+
+## ![[documentacion.png|30]] Documentación (Marco Teórico):
+
 
 ---
 ### ![[research_book.png|30]] Referencias:

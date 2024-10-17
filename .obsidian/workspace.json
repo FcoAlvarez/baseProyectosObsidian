@@ -158,19 +158,74 @@
       "obsidian-kanban:Create new board": false
     }
   },
+  "floating": {
+    "id": "422d299eed2f7caa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d07c6e252ed44dd7",
+        "type": "window",
+        "children": [
+          {
+            "id": "2e1dfa3f276817df",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2abe251e8a87061f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "_Dashboard.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 172,
+        "y": 32,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "eb569eea78967f17",
   "lastOpenFiles": [
     "Kanban.md",
     "_Dashboard.md",
+    "documentacion/Presentación de proyecto.md",
+    "documentacion/Cartel.md",
+    "documentacion/Manual de Instalación.md",
+    "documentacion/Manual de Operación.md",
+    "documentacion/Conclusiones.md",
+    "documentacion/Análisis de resultado.md",
+    "documentacion/Estrategia para la protección de la propiedad intelectual del prototipo.md",
     "documentacion/Impacto.md",
     "documentacion/Estudio de factibilidad técnica y financiera (Costos).md",
+    "documentacion/Estudio de viabilidad para la implementación del prototipo.md",
+    "documentacion/Propuesta de valor del proyecto.md",
+    "documentacion/Descripción de planeación y desarrollo del proyecto.md",
+    "documentacion/Marco Teórico.md",
+    "documentacion/Bibliografía.md",
+    "documentacion/Tipo de investigación.md",
+    "documentacion/Objetivos secundarios.md",
+    "documentacion/Objetivo General.md",
+    "documentacion/Hipótesis.md",
+    "documentacion/Justificación.md",
+    "documentacion/Planteamiento del problema.md",
+    "documentacion/Introducción.md",
+    "Bitacora/2024-10-17.md",
     "Templates/entradaBitacora.md",
     "Templates/entradaExperimento.md",
-    "Bitacora/2023-08-17.md",
     "images/research_book.png",
     "images/research.png",
     "images/project.png",
-    "Bitacora/2023-08-10.md",
     "Bitacora/project-management.png",
     "images/research_book.png.crdownload",
     "images/research.png.crdownload",
@@ -188,12 +243,6 @@
     "documentacion/documentacion.png.crdownload",
     "images/project.png.crdownload",
     "documentacion",
-    "Bitacora/2023-08-02.md",
-    "Bitacora/2023-09-11.md",
-    "2023-09-11.md",
-    "Bitacora/2023-08-09.md",
-    "Images/Untitled.canvas",
-    "Bitacora/09/Aug/2023.md",
-    "2023-08-09.md"
+    "Images/Untitled.canvas"
   ]
 }
