@@ -6,6 +6,7 @@ kanban-plugin: board
 
 ## Borrador
 
+- [ ] Diseño o Arquitectura
 
 
 ## Pendientes
